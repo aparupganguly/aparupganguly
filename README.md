@@ -1,3 +1,7 @@
+![logo](https://github.com/aparupganguly/aparupganguly/blob/main/Github%20Banner.png)
+
+
+
 <h1 align="center">Hi 👋, I'm Aparup Ganguly</h1>
 <h3 align="center">A B.Tech CSE student who likes to write good-quality code. I am a MERN stack [ Full Stack Web and App Developer] REACT, React Native App developer. Learning ML & WEB 3</h3>
 
