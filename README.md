@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1DSb44SB_S7u2eOGpFkABUgwBv7bkZdDL0hV3RXR_9EY/edit](https://docs.google.com/document/d/1DSb44SB_S7u2eOGpFkABUgwBv7bkZdDL0hV3RXR_9EY/edit)
 
-- ⚡ Fun fact  I am a Code Cracking, Game-playing, Movie-Loving Guitarist! 🎬🎮💻🎸**
+- ⚡ Fun fact  I am a Code Cracking, Game-playing, Movie-Loving Guitarist! 🎬🎮💻🎸
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
