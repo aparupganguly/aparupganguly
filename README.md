@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aparupganguly86@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1DSb44SB_S7u2eOGpFkABUgwBv7bkZdDL0hV3RXR_9EY/edit](https://docs.google.com/document/d/1DSb44SB_S7u2eOGpFkABUgwBv7bkZdDL0hV3RXR_9EY/edit)
+- 📄 Know about my experiences [aparupganguly.com/edit](https://aparupganguly.com)
 
 - ⚡ Fun fact  **I am a Code Cracking, Game-playing, Movie-Loving Guitarist! 🎬🎮💻🎸**
 
