@@ -16,7 +16,7 @@
 
 ### 📬 Connect with Me  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/aparupganguly01)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/aparup-ganguly-90a307223)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aparupganguly/)  
 [![Dev.to](https://img.shields.io/badge/-Dev.to-000000?logo=devdotto&logoColor=white&style=for-the-badge)](https://dev.to/aparupganguly)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://www.leetcode.com/aparup2003)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_aparup)  
