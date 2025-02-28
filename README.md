@@ -1,4 +1,4 @@
-![Aparup Ganguly](https://github.com/aparupganguly/aparupganguly/blob/main/Github%20Banner.png)
+![Aparup Ganguly](https://github.com/aparupganguly/aparupganguly/blob/main/banner.png)
 
 # Hi, I'm Aparup Ganguly 👋  
 
