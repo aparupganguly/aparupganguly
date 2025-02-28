@@ -34,4 +34,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparupganguly&theme=radical" alt="GitHub Streak" />
 </p>
 
-🚀 Let's build something awesome together!  
+🧩 Let's build something awesome together!  
