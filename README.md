@@ -1,47 +1,37 @@
 ![Aparup Ganguly](https://github.com/aparupganguly/aparupganguly/blob/main/Github%20Banner.png)
 
-<h1 align="center">Hey, I'm Aparup Ganguly 👋</h1>
-<h3 align="center">Full-Stack Developer | React, React Native | MERN Stack | Exploring AI & Web3</h3>
+# Hi, I'm Aparup Ganguly 👋  
 
----
+🚀 **Frontend Engineer | Full-Stack Developer**  
+💡 Passionate about building smooth, high-performance UIs & interactive web experiences.  
 
-### 🚀 About Me  
-- 🔨 **Building:** Full-stack web & mobile apps  
-- 🌱 **Learning:** AI & Web3  
-- 💬 **Ask me about:** React, MERN, React Native  
-- 📫 **Contact me:** [Email](mailto:aparupganguly86@gmail.com) | [Website](https://aparupganguly.com)  
-- 🎸 **Fun Fact:** I love coding, gaming, movies, and playing guitar  
+## 📫 Get in Touch  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aparupganguly01)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aparup-ganguly-90a307223)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://aparupganguly.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aparupganguly86@gmail.com)  
 
----
+## 🌟 Skills & Tech Stack  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)  
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
 
-### 📬 Connect with Me  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/aparupganguly01)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aparupganguly/)  
-[![Dev.to](https://img.shields.io/badge/-Dev.to-000000?logo=devdotto&logoColor=white&style=for-the-badge)](https://dev.to/aparupganguly)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://www.leetcode.com/aparup2003)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_aparup)  
+## 🚀 What I Do  
+- **Web & Mobile App Development** – MERN, Next.js, React Native  
+- **AI Integrations & SaaS** – LLMs, AI-driven features, automation  
+- **3D & Interactive Web** – Three.js, GSAP, WebGL  
+- **UI/UX & Animations** – Framer Motion, Figma  
+- **Building Micro-Startups & SaaS**  
 
----
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aparupganguly&show_icons=true&theme=radical" alt="Aparup's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparupganguly&theme=radical" alt="GitHub Streak" />
+</p>
 
-### 🛠️ Tech Stack  
-#### 🔹 Languages & Frameworks  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)  
-
-#### 🔹 Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)  
-
----
-
-### 📈 GitHub Stats  
-![Aparup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aparupganguly&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aparupganguly&layout=compact&theme=radical)  
-
----
-
-✨ **"Keep learning, keep building!"** 🚀  
+🚀 Let's build something awesome together!  
